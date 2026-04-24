@@ -20,7 +20,7 @@ const fadeUp = {
 };
 
 export function HeroSection({ content, isEditing, onEdit }: Props) {
-  const whatsappUrl = `https://wa.me/5541999999999?text=${encodeURIComponent("Olá Gabriela! Vim pelo site e gostaria de fazer um pedido 🌸")}`;
+  const whatsappUrl = `https://wa.me/5542991240940?text=${encodeURIComponent("Olá Gabriela! Vim pelo site e gostaria de fazer um pedido 🌸")}`;
 
   return (
     <section
