@@ -164,7 +164,7 @@ export function ProductsSection({ products, isEditing, onEdit }: Props) {
                       borderColor: "var(--rose-deep)",
                     }}
                     onClick={() => {
-                      const url = `https://wa.me/5541999999999?text=${encodeURIComponent(`Olá! Gostaria de encomendar: ${product.name} 🌸`)}`;
+                      const url = `https://wa.me/5542991240940?text=${encodeURIComponent(`Olá! Gostaria de encomendar: ${product.name} 🌸`)}`;
                       window.open(url, "_blank");
                     }}
                   >
@@ -193,7 +193,7 @@ export function ProductsSection({ products, isEditing, onEdit }: Props) {
             Não encontrou o que procura?
           </p>
           <a
-            href="https://wa.me/5541999999999?text=Olá! Gostaria de um pedido personalizado 🌸"
+            href="https://wa.me/5542991240940?text=Olá! Gostaria de um pedido personalizado 🌸"
             target="_blank"
             rel="noopener noreferrer"
             className="font-body text-sm font-medium underline"
