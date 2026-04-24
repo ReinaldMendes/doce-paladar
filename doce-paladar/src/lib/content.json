@@ -1,0 +1,126 @@
+{
+  "hero": {
+    "tagline": "Feito com amor, servido com alma",
+    "headline": "Sabores que\nabraçam o coração",
+    "subheadline": "Confeitaria artesanal com ingredientes selecionados, receitas exclusivas e todo o carinho de quem faz com paixão.",
+    "cta": "Encomendar agora"
+  },
+  "about": {
+    "title": "Uma história\ndoce como ela",
+    "paragraphs": [
+      "Tudo começou na cozinha de casa, com farinha nas mãos e sorrisos no rosto. Gabriela Carmo sempre acreditou que a confeitaria é mais do que técnica — é um ato de amor que se transforma em sabor.",
+      "Após anos de estudo e dedicação, nasceu o Doce Paladar: um espaço onde cada peça é tratada como obra de arte, e cada cliente é recebido como parte da família.",
+      "Ingredientes frescos, receitas autorais e muito carinho em cada detalhe. Aqui, o seu momento especial começa com um doce perfeito."
+    ],
+    "badge": "Desde 2019 adoçando vidas"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Macarons Franceses",
+      "description": "Crocantes por fora, macios por dentro. Recheios exclusivos que derretem na boca com elegância.",
+      "price": "R$ 8,00 / unidade",
+      "tag": "Mais pedido",
+      "emoji": "🌸"
+    },
+    {
+      "id": 2,
+      "name": "Bolo Naked Floral",
+      "description": "Camadas generosas de bolo artesanal com creme fresco e flores naturais comestíveis.",
+      "price": "A partir de R$ 180,00",
+      "tag": "Exclusivo",
+      "emoji": "🎂"
+    },
+    {
+      "id": 3,
+      "name": "Trufas Belgas",
+      "description": "Chocolate belga de primeira linha com recheios artesanais. Uma experiência de sabor inigualável.",
+      "price": "R$ 12,00 / unidade",
+      "tag": "Premium",
+      "emoji": "🍫"
+    },
+    {
+      "id": 4,
+      "name": "Cheesecake de Frutas",
+      "description": "Base crocante, creme aveludado e cobertura com frutas frescas da estação.",
+      "price": "A partir de R$ 95,00",
+      "tag": "Favorito",
+      "emoji": "🫐"
+    },
+    {
+      "id": 5,
+      "name": "Docinhos Finos",
+      "description": "Brigadeiros gourmet, beijinhos e doces especiais para festas e eventos memoráveis.",
+      "price": "R$ 5,00 / unidade",
+      "tag": "Para festas",
+      "emoji": "✨"
+    },
+    {
+      "id": 6,
+      "name": "Torta de Limão Siciliano",
+      "description": "Azedinho na medida certa, com merengue italiano flamejado na hora. Irresistível.",
+      "price": "A partir de R$ 110,00",
+      "tag": "Sazonal",
+      "emoji": "🍋"
+    }
+  ],
+  "differentials": [
+    {
+      "icon": "Leaf",
+      "title": "Ingredientes Naturais",
+      "description": "Sem conservantes artificiais. Apenas o melhor da natureza em cada receita."
+    },
+    {
+      "icon": "Heart",
+      "title": "Feito com Amor",
+      "description": "Cada peça produzida com atenção e carinho, como se fosse para a nossa própria família."
+    },
+    {
+      "icon": "Star",
+      "title": "Receitas Exclusivas",
+      "description": "Criações únicas desenvolvidas por Gabriela, que não encontra em nenhum outro lugar."
+    },
+    {
+      "icon": "Clock",
+      "title": "Entrega Pontual",
+      "description": "Seu pedido especial entregue na hora certa, sem atrasos e com embalagem impecável."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Ana Clara",
+      "role": "Mãe da Maria Fernanda",
+      "text": "Os macarons da Gabriela foram o destaque do aniversário da minha filha. Todo mundo perguntou onde tinha comprado. Uma experiência única!",
+      "stars": 5
+    },
+    {
+      "name": "Renata Souza",
+      "role": "Noiva",
+      "text": "Encomendei o bolo do meu casamento e fui surpreendida com algo além do que imaginei. Delicioso e lindo. A Gabi é incrível!",
+      "stars": 5
+    },
+    {
+      "name": "Marcos Lima",
+      "role": "Cliente fiel há 3 anos",
+      "text": "Toda semana tem Doce Paladar aqui em casa. Qualidade que nunca decepcionou. Recomendo de olhos fechados!",
+      "stars": 5
+    },
+    {
+      "name": "Juliana Ferreira",
+      "role": "Organizadora de eventos",
+      "text": "Trabalho com eventos premium e a Gabriela é minha parceira de confiança. Todos os meus clientes amam os doces dela.",
+      "stars": 5
+    }
+  ],
+  "cta": {
+    "headline": "Pronto para se apaixonar?",
+    "subtext": "Faça seu pedido pelo WhatsApp e deixe que a Gabriela cuide de tornar o seu momento ainda mais especial.",
+    "whatsapp": "5541999999999",
+    "message": "Olá Gabriela! Vim pelo site e gostaria de fazer um pedido 🌸",
+    "buttonText": "Falar com a Gabriela"
+  },
+  "footer": {
+    "instagram": "https://instagram.com/docepaladar",
+    "whatsapp": "5541999999999"
+  }
+}
